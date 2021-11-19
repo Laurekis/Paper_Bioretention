@@ -22,12 +22,19 @@ This folder contains intermediate and final outputs from this analysis (as raste
 "annual_ppt.tif" - annual average precipitation (mm)
 
 "delta.tif" - average annual inter-storm duration (days)
+
 "n_days.tif" - the average number of days per year with precipitation > 1 mm (days)
+
 "n_heavy.tif" - the average number of days per year with heavy precipitation (>25.4 mm and < 76.2 mm) (days)
-"n_vheavy.tif" - the average number of days per year with very heavy precipitation (>76.2 mm) days
+
+"n_vheavy.tif" - the average number of days per year with very heavy precipitation (>76.2 mm) (days)
+
 "P_PET_new.tif" - annual average precipitation minus annual average potential evapotranspiration (mm)
+
 "percent_summer.tif" - fraction of annual precipitation that fell in June-August, based on monthly normals (dimensionless)
+
 "SI.tif" - seasonality index, where higher values indicate greater precipitation seasonality (dimensionless)
+
 "Snow Prop.tif" - fraction of annual precipitation that fell as snow, based on monthly normals (dimensionless)
 
 "PPT_regions_subdivided_new.tif" - final rainfall regions determined by clustering analysis of the above variables
