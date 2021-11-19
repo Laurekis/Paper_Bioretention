@@ -37,4 +37,8 @@ This folder contains intermediate and final outputs from this analysis (as raste
 
 "Snow Prop.tif" - fraction of annual precipitation that fell as snow, based on monthly normals (dimensionless)
 
-"PPT_regions_subdivided_new.tif" - final rainfall regions determined by clustering analysis of the above variables
+"PPT_regions_new.tif" - rainfall regions determined by clustering analysis of the above variables
+
+"PPT_regions_subdivided_new.tif" - finall rainfall regions created by splitting two regions which had distinct geographic sub-regions
+
+Please contact Rod Lammers (rodlammers@gmail.com) with any questions.
